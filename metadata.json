@@ -1,0 +1,6 @@
+{
+  "name": "TuneFlow",
+  "description": "Premium music streaming app inspired by Spotify with Telegram channel backend, offline cache, and glassmorphic UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
